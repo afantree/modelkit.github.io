@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>ModelKit's Changelog</title>
+        <link>https://modelkit.afantree.com/appcast.xml</link>
+        <description>Most recent changes with links to updates.</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.0.1 (2 bugs fixed; 3 new features)</title>
+            <sparkle:releaseNotesLink>
+                https://modelkit.afantree.com/changelog/1_0_1.html
+            </sparkle:releaseNotesLink>
+            <pubDate>Fri, 01 Apr 2016 19:20:11 +0000</pubDate>
+            <enclosure url="https://modelkit.afantree.com/download/modelkit_2.zip" sparkle:version="2" length="3045759" type="application/octet-stream" sparkle:dsaSignature="MC4CFQC514opJKEPgZItJ7AMYYCqy9NVtwIVANAcGNAN828X3ip8P1dUOLYGPa29" />
+            <sparkle:minimumSystemVersion>10.10</sparkle:minimumSystemVersion>
+        </item>
+    </channel>
+</rss>
