@@ -439,7 +439,9 @@ body {
 p {
   margin-top: 0;
 }
-
+li {
+  margin-left: 20px;
+}
 a {
   color: #2879d0;
 }
