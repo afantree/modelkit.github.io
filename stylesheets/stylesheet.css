@@ -151,7 +151,7 @@ mark {
  */
 
 small {
-  font-size: 80%;
+  font-size: 90%;
 }
 
 /**
@@ -530,7 +530,7 @@ a.button {
 }
 a.button small {
   display: block;
-  font-size: 11px;
+  font-size: 16px;
 }
 header a.button {
   position: absolute;
@@ -880,4 +880,3 @@ footer a:hover {
 
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 @media only screen and (max-width: 479px) { }
-
